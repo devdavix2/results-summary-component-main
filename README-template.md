@@ -1,112 +1,60 @@
-# Frontend Mentor - Results summary component solution
+# Results summary component  - My Solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Design preview for the Product Preview Card component coding challenge](./design/desktop-preview.jpg)
 
-## Table of contents
+## Hello there! 👋
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+I'm thrilled to present my solution to the  Results Summary Component Challenge from [Frontend Mentor](https://www.frontendmentor.io). This project allowed me to hone my front-end development skills, and I'm excited to showcase the result.
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-- **Bonus**: Use the local JSON data to dynamically populate the content
-
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./solutions/FireShot Capture 009 - Frontend Mentor - Results summary component - 127.0.0.1.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+### Live Demo
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Check out the live demo [here](https://results-summary-component-main-ashen.vercel.app/).
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+## Features
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+- Created an attractive and responsive Product Preview Card Component.
+- Incorporated Font Awesome for stylish and scalable icons.
+- Developed the component using HTML5 and CSS3.
 
-### Links
+## How to Use
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+1. Clone the repository: `git clone https://github.com/devdavix2/results-summary-component-main`
+2. Open `index.html` in your preferred web browser.
 
-## My process
+## What I Learned
 
-### Built with
+In this project, I gained hands-on experience in:
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Crafting and styling a product preview card using semantic HTML and CSS.
+- Integrating Font Awesome for enhanced iconography.
+- Ensuring a seamless and responsive design across different devices.
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+## Future Enhancements
 
-### What I learned
+Looking ahead, I plan to:
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Integrate interactive elements using JavaScript.
+- Refine the design for an even more polished user experience.
 
-To see how you can add code snippets, see below:
+## Credits
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+- Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
+- Developed with passion by [Devdavix](https://github.com/devdavix2)
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+## Connect With Me
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Feel free to reach out for questions, feedback, or just to say hi! You can drop me an email at [devdavixx@gmail.com].
 
-### Continued development
+## Special Thanks
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+A big shoutout to Frontend Mentor for providing these fantastic challenges that continuously push us to improve our skills!
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+---
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Feel free to customize this template according to your specific details. Replace placeholder URLs and contact information with your actual data. Happy coding! �
