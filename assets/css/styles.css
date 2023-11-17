@@ -1,0 +1,442 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+
+
+.main-container{
+    
+    display: flex;
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+    margin: 100px 400px;
+    align-items: center;
+    justify-content: center;
+  
+    
+
+
+    
+}
+
+
+.summary-card{
+
+    width: 200px;
+    height: 300px;
+    margin: -10px;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 10px 5px 15px 5px rgba(46,43,233,0.1) ;
+    font-weight: 700;
+  
+    
+}
+
+
+
+
+
+.summary-card .sum{
+    font-weight: 700;
+    color: rgba(48,59,89,255);
+    margin-left: 10px;
+}
+
+
+
+
+
+.result-card{
+
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(70, 53, 243);
+}
+
+.result-card h1{
+
+   color: lightgray;
+   font-family: "Hanken Grotesk" ;
+   font-size: medium;
+   font-weight: 700;
+   text-align: center;
+   
+}
+
+
+.result-card .score-templatee{
+    text-align: center;
+    font-family: "Hanken Grotesk" ;
+   
+    color: #fff;
+    font-weight: 800;
+    background: -webkit-linear-gradient(90deg, rgba(70, 53, 243, 0.1), #4827d0, #452ee1);
+
+
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px 40px;
+    display: block;
+    padding: 10px 10px;
+    align-items: center;
+    justify-content: center;
+   
+
+
+  
+
+}
+.result-card .score-num{
+    text-align: center;
+    font-family: "Hanken Grotesk" ;
+    display: block;
+    font-size: 50px;
+    margin-top: 15px;
+  
+
+
+}
+
+.result-card .score-den{
+    text-align: center;
+    font-family: "Hanken Grotesk" ;
+    font-size: small;
+    margin-top: -5px;
+    color: darkgray;
+
+
+
+}
+
+.result-card .score-status{
+    text-align: center;
+    font-family: "Hanken Grotesk" ;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 5px;
+    font-weight:700 ;
+
+}
+.result-card .score-sum{
+    text-align: center;
+    font-family: "Hanken Grotesk" ;
+    font-size: 12px;
+    color: lightgray;
+    margin: 0 10px;
+
+}
+
+
+
+
+
+
+
+
+.score-templatee{
+    
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.summary-card h1{
+    font-family: "Hanken Grotesk" ;
+    font-size: medium;
+    font-weight: 500;
+
+
+    
+   
+    
+ }
+ 
+
+ .summary-list-box{
+
+    align-self: center;
+    justify-content: center;
+    margin-top: 5px;
+    padding:5px ;
+   
+  
+   
+    
+
+ }
+ 
+ 
+ .summary-box-title{
+    display: flex;
+    flex: 1;
+    font-family: "Hanken Grotesk" ;
+    font-size: small;
+    height: 30px;
+    padding-top: -10px;
+   
+   
+ }
+
+
+
+
+ .summary-list-boxes{
+    display: flex;
+    flex: 1;
+    margin-bottom: 8px;
+    width: auto;
+
+ 
+
+   
+ 
+   
+
+  
+    
+     
+}
+
+
+
+.summary-list-boxes .reaction{
+ 
+    background-color:rgba(255,246,245,255) ;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgba(219,101,103,255);
+    
+
+     
+}
+
+.summary-list-boxes .memory{
+ 
+    background-color:rgba(255,251,242,255) ;
+    color: rgba(250,188,73,255);
+ 
+    padding: 5px;
+    border-radius: 5px;
+    
+
+     
+}
+
+.summary-list-boxes .verbal{
+ 
+    background-color:rgba(242,251,250,255) ;
+    color: rgba(44,163,133,255);
+ 
+    padding: 5px;
+    border-radius: 5px;
+    
+
+     
+}
+
+.summary-list-boxes .visual{
+ 
+    background-color:rgba(243,243,253,255) ;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgba(55,64,150,255);
+     
+}
+
+
+ img{
+ 
+    height: fit-content;
+    width: fit-content;
+    margin-right: 15px;
+
+     
+}
+
+.box-num{
+
+    margin-left: 40px;
+    color: rgba(60,65,83,255);
+    
+}
+
+.box-num2{
+
+    margin-left: 55px;
+    color: rgba(60,65,83,255);
+    
+}
+
+.number-den{
+    color: rgba(161,157,164,255);
+}
+
+button{
+
+    background: rgba(48,59,89,255);
+    color: #fff;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    display: block;
+    text-align: center;
+    border-style: none;
+}
+
+
+  .attribution{ 
+    font-size: 15px; 
+    text-align: center; 
+    font-weight: 700;
+    display: block;
+    margin: 0px 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+  .attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
+
+/* Your existing styles */
+
+@media only screen and (max-width: 375px) {
+    .main-container {
+        margin: 0px; /* Adjust the margin as needed for smaller screens */
+        width: auto; /* Allow the container to take the full width of the viewport */
+        display: block;
+        overflow: hidden;
+        border-radius: 0%;
+    }
+
+    .summary-card{
+
+        width: auto; 
+        box-shadow: none;
+        margin: 0px 10px;
+
+    }
+
+    .result-card {
+        width: auto; /* Make the cards take the full width of the viewport */
+        box-shadow: none;
+        border-radius: 20px;
+        margin-top: -20px;
+        padding-top: 30px;
+    }
+
+    
+.result-card .score-templatee{
+    text-align: center;
+    font-family: "Hanken Grotesk" ;
+   
+    color: #fff;
+    font-weight: 800;
+    background: -webkit-linear-gradient(90deg, rgba(70, 53, 243, 0.1), #4827d0, #452ee1);
+
+
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 20px 100px;
+    display: block;
+    padding: 10px 10px;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.result-card .score-sum{
+    text-align: center;
+    font-family: "Hanken Grotesk" ;
+    font-size: 12px;
+    color: lightgray;
+    margin: 0 60px;
+
+}
+
+.box-num{
+
+    margin-left: 120px;
+    color: rgba(60,65,83,255);
+    
+}
+
+.box-num2{
+
+    margin-left: 130px;
+    color: rgba(60,65,83,255);
+    
+}
+
+
+
+.summary-list-boxes{
+    display: flex;
+    flex: 1;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: auto;
+         
+}
+
+
+button{
+
+    background: rgba(48,59,89,255);
+    color: #fff;
+    width: 300px;
+    height: 40px;
+    border-radius: 30px;
+    display: block;
+    text-align: center;
+    border-style: none;
+    margin: 0px 5px;
+    margin-top: 10px;
+    font-size: 15px;
+
+    
+}
+
+
+
+
+    
+  .attribution{ 
+    font-size: 15px; 
+    text-align: center; 
+    font-weight: 700;
+    display: block;
+    margin: 10px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+  .attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
+
+    
+}
+
+   
+
+
