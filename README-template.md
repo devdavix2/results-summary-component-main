@@ -10,7 +10,10 @@ I'm thrilled to present my solution to the  Results Summary Component Challenge 
 
 ### Screenshot
 
-![Screenshot](./solutions/FireShot Capture 009 - Frontend Mentor - Results summary component - 127.0.0.1.png)
+
+![Screenshot](./solutions/deskstop.png)
+
+![Mobile](solutions/mobile.png)
 
 ### Live Demo
 
